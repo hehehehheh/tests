@@ -4,10 +4,6 @@
 #p.s კოდში შეცდომა არ არის
 #დრო რამდენიც დაგჭირდება. შეასრულე დამოუკიდებლად.
 
-name = "Sofi"
-age = 23
-student = True
-print("სტუდენტის მონაცემებია: ")
-print(name)
-print(age)
-print(student)
+student_information=["sofi",23,"student"]
+print  ("name- ",student_information[0] , "age- ",student_information[1], student_information[2]" )
+
